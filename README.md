@@ -1,13 +1,12 @@
 # BloodLink 🩸
 
-BloodLink is a JavaScript-based platform designed to connect blood donors, recipients, quickly and efficiently.
+BloodLink is a Full Stack-based platform designed to connect blood donors, recipients, quickly and efficiently.
 
 ## 🚀 Features
 
 - Donor registration and profile management
 - Recipient/blood request creation
 - Blood group based search and matching
-- Location-based donor discovery
 - Request status tracking
 - Contact and notification workflow
 - Clean and responsive UI
@@ -15,10 +14,10 @@ BloodLink is a JavaScript-based platform designed to connect blood donors, recip
 ## 🛠️ Tech Stack
 
 - **Language:** JavaScript
-- **Frontend:** (Add framework if used: React / Vue / etc.)
-- **Backend:** (Add runtime/framework if used: Node.js / Express / etc.)
-- **Database:** (Add DB if used: MongoDB / MySQL / etc.)
-- **Other Tools:** (Add any APIs/services)
+- **Frontend:**  React 
+- **Backend:**  Node.js / Express 
+- **Database:**  MongoDB 
+- **Other Tools:** Brave Mail
 
 ## 📂 Project Structure
 
